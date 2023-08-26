@@ -2,7 +2,7 @@
 
 Welcome to Not-Google! This is the UI for an AI Google clone, but with a twist - it's aggressive and so not Google. The UI is based on the [Google clone UI by evertcode](https://github.com/evertcode/google-clone-ui.git).
 
-![Google Clone UI](https://github.com/sBubshait/not-google/assets/44058159/c69c5f70-adbc-4552-ac37-483608134767) 
+<img width="1439" alt="NotGoogle mainpage" src="https://github.com/sBubshait/not-google/assets/44058159/b807137d-22e5-49d7-a3a6-049510a5f994">
 
 ## Try It Out Now! 🚀
 
